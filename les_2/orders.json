@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "item": "pc",
+            "quantity": 4,
+            "price": 12000,
+            "buyer": "Lena",
+            "date": "12.05.2021"
+        },
+        {
+            "item": "tv",
+            "quantity": 1,
+            "price": 4450,
+            "buyer": "Max",
+            "date": "01.02.2021"
+        }
+    ]
+}

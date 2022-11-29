@@ -10,7 +10,6 @@
 
 import subprocess
 import chardet
-from textblob import TextBlob
 
 args = ['ping', 'yandex.ru']
 subproc_ping = subprocess.Popen(args, stdout=subprocess.PIPE)
